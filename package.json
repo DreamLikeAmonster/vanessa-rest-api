@@ -1,7 +1,7 @@
 {
-  "name": "vanessa-rest-api"
+  "name": "rest-api-alpis",
   "version": "2.0.0",
-  "description": "make by vanessa",
+  "description": "make by alip free rest api",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DreamLikeAmonster/vanessa-rest-api.git"
+    "url": "git+https://github.com/AlipBot/Api-Alpis.git"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "vanessa",
+  "author": "AlipBot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DreamLikeAmonster/vanessa-rest-api/issues"
+    "url": "https://github.com/AlipBot/Api-Alpis/issues"
   },
-  "homepage": "https://github.com/DreamLikeAmonster/vanessa-rest-api#readme",
+  "homepage": "https://github.com/AlipBot/Api-Alpis#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "bitly": "^7.1.2",
