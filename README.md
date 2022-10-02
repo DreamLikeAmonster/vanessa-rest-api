@@ -23,7 +23,7 @@
 * ## TUTORIAL 📌
 
 Forks Github Ini
- [`Klik Sini Untuk Fork Project`](https://github.com/AlipBot/api-alpis/fork)<br>
+ [`Klik Sini Untuk Fork Project`](https://github.com/DreamLikeAmonster/vanessa-rest-api/fork)<br>
 
 DEPLOY TO HEROKU
 
@@ -34,9 +34,6 @@ CONNECT PROJECTS GITHUB YANG KALIAN FORK TADI
 LALU TEKAN
 Deploy
 
-<a href="https://youtu.be/QZ2FWTur9WA"><img src="https://img.youtube.com/vi/QZ2FWTur9WA/sddefault.jpg" alt="">
- [`Tutorial In Youtube`](https://youtu.be/QZ2FWTur9WA)<br>
-
 * # ``Cara On 24 Jam``
 
 [`Klik Sini`](https://kaffeine.herokuapp.com)<br>
@@ -44,8 +41,6 @@ add website kamu
 
 * ## SETTING ⚙️
 File Setting ``setting.js``
-
-[`Tukar Nama Creator Disini`](https://github.com/AlipBot/Api-Alpis/blob/master/settings.js#:~:text=creator%20%3D%20%27-,%E4%B9%82%F0%9D%98%BC%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%A5%E4%B9%82,-%27)<br>
 
 * ## FEATURE LIST 💡
 
@@ -65,12 +60,12 @@ File Setting ``setting.js``
 | Tools  |✔️|
 | Islamic  |✔️|
 
-<img src="https://telegra.ph/file/1cbc7e659b35a053bf25f.png" width="150" height="150">
+<img src="https://telegra.ph/file/b0f50940765feb2cabc9a.jpg" width="814" height="1166">
 
-``Halal Rest API``
+``Rest API``
 
 ## ``Credit 💳 Script``
 
-<img src="https://avatars.githubusercontent.com/AlipBot" width="200" height="200">
+<img src="https://avatars.githubusercontent.com/DreamLikeAmonster" width="200" height="200">
 
-[`AlipBot`](https://github.com/AlipBot)<br>
+[`vanessa`](https://github.com/DreamLikeAmonster)<br>
