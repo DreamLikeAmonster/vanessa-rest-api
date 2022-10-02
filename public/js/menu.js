@@ -25,7 +25,7 @@
 
 //Visit
 
-$.getJSON("https://api.countapi.xyz/hit/rest-api-alip.herokuapp.com/visitor", function(response) {
+$.getJSON("https://api.countapi.xyz/hit/vanessa-rest-api.herokuapp.com/visitor", function(response) {
     $("#visitor").text(response.value);
 })
 
